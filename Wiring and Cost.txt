@@ -1,0 +1,22 @@
+Ultasonic Sensor (Rs.300)
+
+VCC--5V--(Red)        (F-M)
+Trig--Pin 10--(Grey)  (F-M)
+Echo--Pin 11--(Green) (F-M)
+GND--Ground--(Black)  (F-M)
+
+SERVO MOTOR (Rs.300)
+
+3V--(Red)              (M-M)
+GND--Ground--(Black)   (M-M)
+(Yellow)--Pin 12       (M-M)
+
+
+Total Jumper Wire Used: 07   (Rs.100)
+Male-Male   --03
+Female-Male --04
+
+Arduino + Cable  (Rs.1200)
+Adhesive (Rs.100)
+
+Total-- Rs.2000

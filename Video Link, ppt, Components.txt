@@ -1,0 +1,18 @@
+Video Link:
+https://drive.google.com/file/d/11l500-cL09e5bzynwKwnbFMZFxp-Uxmm/view?usp=drivesdk
+Main: https://youtu.be/JvmIutmQd9U
+https://youtu.be/v9FLTmL1GSw
+
+ppt:
+https://www.canva.com/design/DAFTZQUXwIs/jF6-1wHHWa5GZuVZLd-Puw/view?utm_content=DAFTZQUXwIs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Components:
+https://www.amazon.in/ApTechDeals-Micro-Helicopter-Airplane-Controls/dp/B07Q1HT9R5/ref=mp_s_a_1_3?crid=3HTLNQQ58Q83T&keywords=servo+motor&qid=1670784755&sprefix=serv%2Caps%2C487&sr=8-3
+https://amzn.eu/d/3ED1uym
+
+Other:
+https://www.hackatronic.com/ultrasonic-sensor-without-arduino-using-555-timer/
+
+
+Range: 2cm-4m
+One eye is transmitter and other is Receiver
