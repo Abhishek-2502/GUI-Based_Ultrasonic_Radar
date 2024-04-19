@@ -71,8 +71,8 @@ Welcome to the Servo and Ultrasonic Sensor Radar project! This repository contai
 ## Media
  
 <p align="center">
-    <img src="radarimg2.jpeg" height="400" width="300" alt="Error">
-    <img src="radarimg3.jpeg" height="400" width="300" alt="Error">
+    <img src="Images/radarimg2.jpeg" height="400" width="300" alt="Error">
+    <img src="Images/radarimg3.jpeg" height="400" width="300" alt="Error">
 </p>
 
 ## Contributing
@@ -81,4 +81,4 @@ Contributions are welcome! If you find any bugs, issues, or have suggestions for
 
 ## Author
 
-This project was created by Abhishek Rajput.
+Abhishek Rajput.
