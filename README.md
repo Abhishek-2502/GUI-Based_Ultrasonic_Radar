@@ -71,8 +71,8 @@ Welcome to the Servo and Ultrasonic Sensor Radar project! This repository contai
 ## Media
  
 <p align="center">
-    <img src="radarimg2.jpeg" height="400" width="300" alt="Front view of the robot">
-    <img src="radarimg2.jpeg" height="400" width="300" alt="Bottom view of the robot">
+    <img src="radarimg2.jpeg" height="400" width="300" alt="Error">
+    <img src="radarimg3.jpeg" height="400" width="300" alt="Error">
 </p>
 
 ## Contributing
